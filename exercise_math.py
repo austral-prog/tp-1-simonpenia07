@@ -1,5 +1,3 @@
-from turtledemo.sorting_animate import instructions2
-
 
 def math():
     """
