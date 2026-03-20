@@ -11,3 +11,8 @@ def grades():
     nota1 = 8
     nota2 = 7
     nota3 = 9
+    suma = nota1 + nota2 + nota3
+    print(suma / 3)
+    print(nota3)
+    print(nota2)
+    print(10 - (suma/3))
